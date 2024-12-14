@@ -1,4 +1,4 @@
-# MathsAndStuff Ruffle
+# MathsAndStuff Ruffle and Game Source Code
 
 All the games source code and Ruffle Setup is hosted here
 If you have ended up here randomly there is nothing you can really do UNLESS you have the exact URL to games hosted here
