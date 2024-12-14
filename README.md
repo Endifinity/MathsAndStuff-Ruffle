@@ -5,3 +5,6 @@ If you have ended up here randomly there is nothing you can really do UNLESS you
 
 Check out:
 https://sites.google.com/view/archive-1 for the official MathsAndStuff website!
+
+PLEASE NOTE:
+The website is unavaliable for mobile users due to the current setup of the website you cannot access the supported mobile site hopefully in the future this functionality is restored but isn't planned for now...
